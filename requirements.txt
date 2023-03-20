@@ -1,4 +1,13 @@
-# Gold_Price_prediction_ML_project
+pandas==0.20.3
+matplotlib==2.0.2
+requests==2.20.1
+numpy==1.13.3
+beautifulsoup4==4.6.3
+fix_yahoo_finance==0.0.22
+seaborn==0.9.0
+scikit_learn==0.20.1
+statsmodels==0.9.0
+
 # GOLD PRICE ANALYSIS AND PREDICTION
 
 ### DATASET:
@@ -91,4 +100,4 @@
 
  For future work, we can use and build upon our existing model to build a
  recommendation system suggesting the users the right time to buy and sell gold for
- people who take interest in investing in gold.# GOLD PRICE ANALYSIS AND PREDICTION
+ people who take interest in investing in gold.
